@@ -154,7 +154,7 @@
 
         .iphoneXR.stripe {
             text-align: center;
-            background-image: url('../images/iphone_XR.jpg');
+            background-image: url('../Images/iphone_XR.jpg');
             background-size: 50%;
             background-repeat: no-repeat;
             background-position: center bottom;
@@ -165,14 +165,14 @@
 
         @media screen and (max-width: 720px) {
             .iphoneXR.stripe {
-                background-image: url('../images/xrsmall.jpg');
+                background-image: url('../Images/xrsmall.jpg');
                 height: 500px;
             }
         }
 
         .iphoneXS.stripe {
             text-align: center;
-            background-image: url('../images/iphone_xs.jpg');
+            background-image: url('../Images/iphone_xs.jpg');
             background-size: 774px 313px;
             background-repeat: no-repeat;
             background-position: center bottom;
@@ -183,7 +183,7 @@
 
         @media screen and (max-width: 720px) {
             .iphoneXS.stripe {
-                background-image: url('./images/xssmall.jpg');
+                background-image: url('./Images/xssmall.jpg');
                 background-size: 220px 225px;
                 height: 500px;
             }
@@ -255,7 +255,7 @@
         .card.stripe {
             text-align: center;
             height: 500px;
-            background-image: url('../images/card.jpg');
+            background-image: url('../Images/card.jpg');
             background-size: 2560px 624px;
             background-repeat: no-repeat;
             background-position: center;
@@ -273,7 +273,7 @@
 
         .news.stripe {
             text-align: center;
-            background-image: url('../images/news.jpg');
+            background-image: url('../Images/news.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -307,7 +307,7 @@
             width: calc(50% - 6px);
             height: 580px;
             color: white;
-            background-image: url('../images/tv.jpg');
+            background-image: url('../Images/tv.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -336,7 +336,7 @@
             height: 580px;
             width: calc(50% - 6px);
             color: white;
-            background-image: url('../images/arcade.jpg');
+            background-image: url('../Images/arcade.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -366,7 +366,7 @@
             height: 580px;
             width: calc(50% - 6px);
             color: white;
-            background-image: url('../images/music.jpg');
+            background-image: url('../Images/music.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -395,7 +395,7 @@
 
             height: 580px;
             width: calc(50% - 6px);
-            background-image: url('../images/watch.jpg');
+            background-image: url('../Images/watch.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -423,7 +423,7 @@
             vertical-align: top;
             height: 580px;
             width: calc(50% - 6px);
-            background-image: url('../images/airpods.jpg');
+            background-image: url('../Images/airpods.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
